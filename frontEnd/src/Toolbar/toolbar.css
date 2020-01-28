@@ -1,0 +1,17 @@
+.pos{
+    padding: 2%;
+    border: silver;
+}
+.top{
+    background-color:rgb(165, 80, 5);
+    height: 50px;
+    margin: auto;
+}
+.position{
+    position: absolute;
+    right: 0;
+}
+.position1{
+    position: absolute;
+    right: 98px;
+}
